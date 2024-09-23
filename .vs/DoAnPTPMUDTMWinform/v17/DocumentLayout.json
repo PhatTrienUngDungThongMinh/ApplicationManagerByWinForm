@@ -1,24 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnPTPMUDTMWinform\\",
+  "WorkspaceRootPath": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\doanptpmudtmwinform\\doanptpmudtmwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\applicationmanagerbywinform\\doanptpmudtmwinform\\dbcontext.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|solutionrelative:doanptpmudtmwinform\\dbcontext.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\applicationmanagerbywinform\\doanptpmudtmwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|solutionrelative:doanptpmudtmwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\doanptpmudtmwinform\\doanptpmudtmwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\applicationmanagerbywinform\\doanptpmudtmwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|solutionrelative:doanptpmudtmwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB90D14-CC79-4ED5-8FAB-66DEF5970FE0}|Library\\Library.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\doanptpmudtmwinform\\library\\library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{DFB90D14-CC79-4ED5-8FAB-66DEF5970FE0}|Library\\Library.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\applicationmanagerbywinform\\library\\library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DFB90D14-CC79-4ED5-8FAB-66DEF5970FE0}|Library\\Library.csproj|solutionrelative:library\\library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\doanptpmudtmwinform\\doanptpmudtmwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\applicationmanagerbywinform\\doanptpmudtmwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|solutionrelative:doanptpmudtmwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -29,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,7 +41,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "DbContext.dbml",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DbContext.dbml",
+              "RelativeDocumentMoniker": "DoAnPTPMUDTMWinform\\DbContext.dbml",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DbContext.dbml",
+              "RelativeToolTip": "DoAnPTPMUDTMWinform\\DbContext.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-09-23T15:05:18.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -45,16 +61,15 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAAJwMAAAAAAAAAAAEwKoMAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-09-23T00:07:52.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T00:07:52.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\Form1.cs",
               "RelativeDocumentMoniker": "DoAnPTPMUDTMWinform\\Form1.cs",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform\\Form1.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\Form1.cs",
               "RelativeToolTip": "DoAnPTPMUDTMWinform\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,24 +78,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\Program.cs",
               "RelativeDocumentMoniker": "DoAnPTPMUDTMWinform\\Program.cs",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform\\Program.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\Program.cs",
               "RelativeToolTip": "DoAnPTPMUDTMWinform\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T23:53:31.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T23:53:31.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\Form1.cs",
               "RelativeDocumentMoniker": "DoAnPTPMUDTMWinform\\Form1.cs",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\Form1.cs [Design]",
               "RelativeToolTip": "DoAnPTPMUDTMWinform\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T23:53:19.364Z",
@@ -88,16 +102,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Library",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnPTPMUDTMWinform\\Library\\Library.csproj",
+              "DocumentIndex": 3,
+              "Title": "Library.csproj",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\Library\\Library.csproj",
               "RelativeDocumentMoniker": "Library\\Library.csproj",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnPTPMUDTMWinform\\Library\\Library.csproj",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\Library\\Library.csproj",
               "RelativeToolTip": "Library\\Library.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-23T00:10:39.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T00:10:39.787Z"
             }
           ]
         }

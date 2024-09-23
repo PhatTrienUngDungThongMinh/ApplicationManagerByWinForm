@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj",
+      "projectUniqueName": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj",
       "projectName": "DoAnPTPMUDTMWinform",
-      "projectPath": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj",
+      "projectPath": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj",
       "packagesPath": "C:\\Users\\tjnk1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform\\obj\\",
+      "outputPath": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tjnk1\\AppData\\Roaming\\NuGet\\NuGet.Config",
