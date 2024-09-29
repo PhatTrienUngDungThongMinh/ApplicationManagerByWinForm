@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\applicationmanagerbywinform\\doanptpmudtmwinform\\phanquyennhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|solutionrelative:doanptpmudtmwinform\\phanquyennhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\applicationmanagerbywinform\\doanptpmudtmwinform\\quanlydondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|solutionrelative:doanptpmudtmwinform\\quanlydondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\applicationmanagerbywinform\\doanptpmudtmwinform\\quanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|solutionrelative:doanptpmudtmwinform\\quanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\doanptpmudtmwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|solutionrelative:doanptpmudtmwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\applicationmanagerbywinform\\doanptpmudtmwinform\\dbcontext.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
       "RelativeMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|solutionrelative:doanptpmudtmwinform\\dbcontext.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\applicationmanagerbywinform\\doanptpmudtmwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|solutionrelative:doanptpmudtmwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\applicationmanagerbywinform\\doanptpmudtmwinform\\dbcontext.dbml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|solutionrelative:doanptpmudtmwinform\\dbcontext.dbml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2607A26-F30C-4E68-93DC-6FE62DB9F086}|DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\applicationmanagerbywinform\\doanptpmudtmwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,18 +58,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PhanQuyenNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\PhanQuyenNhanVien.cs",
+              "RelativeDocumentMoniker": "DoAnPTPMUDTMWinform\\PhanQuyenNhanVien.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\PhanQuyenNhanVien.cs [Design]",
+              "RelativeToolTip": "DoAnPTPMUDTMWinform\\PhanQuyenNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:27:38.671Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyDonDatHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\QuanLyDonDatHang.cs",
+              "RelativeDocumentMoniker": "DoAnPTPMUDTMWinform\\QuanLyDonDatHang.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\QuanLyDonDatHang.cs [Design]",
+              "RelativeToolTip": "DoAnPTPMUDTMWinform\\QuanLyDonDatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:27:24.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyNguoiDung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\QuanLyNguoiDung.cs",
+              "RelativeDocumentMoniker": "DoAnPTPMUDTMWinform\\QuanLyNguoiDung.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\QuanLyNguoiDung.cs [Design]",
+              "RelativeToolTip": "DoAnPTPMUDTMWinform\\QuanLyNguoiDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:27:00.791Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbContext.dbml",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DbContext.dbml",
+              "RelativeDocumentMoniker": "DoAnPTPMUDTMWinform\\DbContext.dbml",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DbContext.dbml",
+              "RelativeToolTip": "DoAnPTPMUDTMWinform\\DbContext.dbml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-09-29T23:13:39.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DbContext.dbml",
               "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DbContext.dbml",
               "RelativeDocumentMoniker": "DoAnPTPMUDTMWinform\\DbContext.dbml",
               "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DbContext.dbml",
               "RelativeToolTip": "DoAnPTPMUDTMWinform\\DbContext.dbml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
-              "WhenOpened": "2024-09-23T15:05:18.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T15:05:18.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -65,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\Form1.cs",
               "RelativeDocumentMoniker": "DoAnPTPMUDTMWinform\\Form1.cs",
@@ -78,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\Program.cs",
               "RelativeDocumentMoniker": "DoAnPTPMUDTMWinform\\Program.cs",
@@ -90,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\Form1.cs",
               "RelativeDocumentMoniker": "DoAnPTPMUDTMWinform\\Form1.cs",
@@ -102,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Library.csproj",
               "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ApplicationManagerByWinForm\\Library\\Library.csproj",
               "RelativeDocumentMoniker": "Library\\Library.csproj",
@@ -110,7 +174,8 @@
               "RelativeToolTip": "Library\\Library.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-23T00:10:39.787Z"
+              "WhenOpened": "2024-09-23T00:10:39.787Z",
+              "EditorCaption": ""
             }
           ]
         }
