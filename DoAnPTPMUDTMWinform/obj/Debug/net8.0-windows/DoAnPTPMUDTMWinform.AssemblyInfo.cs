@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoAnPTPMUDTMWinform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c246d23a4c93b5b8c50cdebcc3e07f4bb0a40dc5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b2f84c2796c58f7e8a9a3e14d8c00fe964ad3b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoAnPTPMUDTMWinform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoAnPTPMUDTMWinform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\bin\Debug\net8.0-windows\ControlsLibary.deps.json
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\bin\Debug\net8.0-windows\ControlsLibary.dll
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\bin\Debug\net8.0-windows\ControlsLibary.pdb
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ControlsLibary.UserControl1.resources
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ControlsLibary.csproj.GenerateResource.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ControlsLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ControlsLibary.AssemblyInfoInputs.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ControlsLibary.AssemblyInfo.cs
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ControlsLibary.csproj.CoreCompileInputs.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ControlsLibary.sourcelink.json
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ControlsLibary.dll
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\refint\ControlsLibary.dll
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ControlsLibary.pdb
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ref\ControlsLibary.dll
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ControlsLibary.UcLogin.resources
