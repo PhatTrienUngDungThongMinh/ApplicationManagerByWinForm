@@ -9,6 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.Linq.Queryable" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ControlsLibary\ModuleLogin.csproj" />
   </ItemGroup>
 
@@ -19,9 +23,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="DbContext.dbml">
+    <None Update="Database.dbml">
       <Generator>MSLinqToSQLGenerator</Generator>
-      <LastGenOutput>DbContext.designer.cs</LastGenOutput>
+      <LastGenOutput>Database.designer.cs</LastGenOutput>
     </None>
     <None Update="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -34,10 +38,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="DbContext.designer.cs">
+    <Compile Update="Database.designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
-      <DependentUpon>DbContext.dbml</DependentUpon>
+      <DependentUpon>Database.dbml</DependentUpon>
     </Compile>
     <Compile Update="Properties\Settings.Designer.cs">
       <DesignTimeSharedInput>True</DesignTimeSharedInput>

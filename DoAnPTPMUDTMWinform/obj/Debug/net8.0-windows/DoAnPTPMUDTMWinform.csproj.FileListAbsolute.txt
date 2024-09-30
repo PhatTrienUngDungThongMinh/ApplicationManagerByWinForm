@@ -18,3 +18,14 @@ C:\Users\tjnk1\OneDrive\Máy tính\DoAnPTPMUDTMWinform\DoAnPTPMUDTMWinform\obj\D
 C:\Users\tjnk1\OneDrive\Máy tính\DoAnPTPMUDTMWinform\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\ref\DoAnPTPMUDTMWinform.dll
 C:\Users\tjnk1\OneDrive\Máy tính\DoAnPTPMUDTMWinform\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\DoAnPTPMUDTMWinform.Form1.resources
 C:\Users\tjnk1\OneDrive\Máy tính\DoAnPTPMUDTMWinform\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\DoAnPTPMUDTMWinform.csproj.GenerateResource.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\DoAnPTPMUDTMWinform.csproj.AssemblyReference.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\DoAnPTPMUDTMWinform.Form1.resources
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\DoAnPTPMUDTMWinform.PhanQuyenNhanVien.resources
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\DoAnPTPMUDTMWinform.QuanLyDonDatHang.resources
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\DoAnPTPMUDTMWinform.QuanLyNguoiDung.resources
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\DoAnPTPMUDTMWinform.csproj.GenerateResource.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\DoAnPTPMUDTMWinform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\DoAnPTPMUDTMWinform.AssemblyInfoInputs.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\DoAnPTPMUDTMWinform.AssemblyInfo.cs
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\DoAnPTPMUDTMWinform.csproj.CoreCompileInputs.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\DoAnPTPMUDTMWinform\obj\Debug\net8.0-windows\DoAnPTPMUDTMWinform.sourcelink.json

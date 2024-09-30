@@ -14,9 +14,4 @@
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <None Update="DbContext.dbml">
-      <SubType>Designer</SubType>
-    </None>
-  </ItemGroup>
 </Project>
