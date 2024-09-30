@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj": {}
+    "C:\\HocTap\\Hocki7\\PTPMUDTM\\DoAn\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\ControlsLibary\\ModuleLogin.csproj": {
+    "C:\\HocTap\\Hocki7\\PTPMUDTM\\DoAn\\ApplicationManagerByWinForm\\ControlsLibary\\ModuleLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\ControlsLibary\\ModuleLogin.csproj",
+        "projectUniqueName": "C:\\HocTap\\Hocki7\\PTPMUDTM\\DoAn\\ApplicationManagerByWinForm\\ControlsLibary\\ModuleLogin.csproj",
         "projectName": "ModuleLogin",
-        "projectPath": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\ControlsLibary\\ModuleLogin.csproj",
-        "packagesPath": "C:\\Users\\tjnk1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\ControlsLibary\\obj\\",
+        "projectPath": "C:\\HocTap\\Hocki7\\PTPMUDTM\\DoAn\\ApplicationManagerByWinForm\\ControlsLibary\\ModuleLogin.csproj",
+        "packagesPath": "C:\\Users\\NGUYEN HUY\\.nuget\\packages\\",
+        "outputPath": "C:\\HocTap\\Hocki7\\PTPMUDTM\\DoAn\\ApplicationManagerByWinForm\\ControlsLibary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tjnk1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NGUYEN HUY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,21 +63,21 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj": {
+    "C:\\HocTap\\Hocki7\\PTPMUDTM\\DoAn\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj",
+        "projectUniqueName": "C:\\HocTap\\Hocki7\\PTPMUDTM\\DoAn\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj",
         "projectName": "DoAnPTPMUDTMWinform",
-        "projectPath": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj",
-        "packagesPath": "C:\\Users\\tjnk1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\obj\\",
+        "projectPath": "C:\\HocTap\\Hocki7\\PTPMUDTM\\DoAn\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj",
+        "packagesPath": "C:\\Users\\NGUYEN HUY\\.nuget\\packages\\",
+        "outputPath": "C:\\HocTap\\Hocki7\\PTPMUDTM\\DoAn\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tjnk1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NGUYEN HUY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,15 +85,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\ControlsLibary\\ModuleLogin.csproj": {
-                "projectPath": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\ControlsLibary\\ModuleLogin.csproj"
+              "C:\\HocTap\\Hocki7\\PTPMUDTM\\DoAn\\ApplicationManagerByWinForm\\ControlsLibary\\ModuleLogin.csproj": {
+                "projectPath": "C:\\HocTap\\Hocki7\\PTPMUDTM\\DoAn\\ApplicationManagerByWinForm\\ControlsLibary\\ModuleLogin.csproj"
               }
             }
           }
@@ -132,7 +130,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
