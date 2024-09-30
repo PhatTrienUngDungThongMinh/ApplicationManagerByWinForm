@@ -12,7 +12,11 @@
       }
     ],
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "C:\\Users\\tjnk1\\.nuget\\packages"
+=======
+      "C:\\Users\\NGUYEN HUY\\.nuget\\packages"
+>>>>>>> aadd86c1afd9987466ae858ea51a64a21ce97ed3
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,

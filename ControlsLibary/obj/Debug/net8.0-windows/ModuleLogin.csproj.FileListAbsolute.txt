@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\bin\Debug\net8.0-windows\ModuleLogin.deps.json
 C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\bin\Debug\net8.0-windows\ModuleLogin.dll
 C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\bin\Debug\net8.0-windows\ModuleLogin.pdb
@@ -13,3 +14,20 @@ C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\ob
 C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\refint\ModuleLogin.dll
 C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ModuleLogin.pdb
 C:\Users\tjnk1\OneDrive\Máy tính\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ref\ModuleLogin.dll
+=======
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\bin\Debug\net8.0-windows\ModuleLogin.deps.json
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\bin\Debug\net8.0-windows\ModuleLogin.dll
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\bin\Debug\net8.0-windows\ModuleLogin.pdb
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ControlsLibary.UcLogin.resources
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ControlsLibary.UserControl1.resources
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ModuleLogin.csproj.GenerateResource.cache
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ModuleLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ModuleLogin.AssemblyInfoInputs.cache
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ModuleLogin.AssemblyInfo.cs
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ModuleLogin.csproj.CoreCompileInputs.cache
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ModuleLogin.sourcelink.json
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ModuleLogin.dll
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\refint\ModuleLogin.dll
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ModuleLogin.pdb
+C:\HocTap\Hocki7\PTPMUDTM\DoAn\ApplicationManagerByWinForm\ControlsLibary\obj\Debug\net8.0-windows\ref\ModuleLogin.dll
+>>>>>>> aadd86c1afd9987466ae858ea51a64a21ce97ed3

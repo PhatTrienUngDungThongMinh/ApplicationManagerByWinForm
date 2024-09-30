@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "T1Vlaydqlng=",
   "success": true,
   "projectFilePath": "C:\\Users\\tjnk1\\OneDrive\\Máy tính\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj",
@@ -28,5 +29,11 @@
     "C:\\Users\\tjnk1\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\tjnk1\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "Vpr4kr/nrqBTYJM5ikAxPr/tk+fw0e4Ytw4imgLc0OO1fNdWzKGdLpzE7aRdHR1/LJAjbgXFoXGzUNSTVdhRmQ==",
+  "success": true,
+  "projectFilePath": "C:\\HocTap\\Hocki7\\PTPMUDTM\\DoAn\\ApplicationManagerByWinForm\\DoAnPTPMUDTMWinform\\DoAnPTPMUDTMWinform.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> aadd86c1afd9987466ae858ea51a64a21ce97ed3
   "logs": []
 }
